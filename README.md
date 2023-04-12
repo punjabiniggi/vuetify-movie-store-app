@@ -7,7 +7,7 @@ Vuetify 3
 Pinia
 Vite
 ```
-The TMDB Api can be accessed <a href="https://www.themoviedb.org/documentation/api" target="_blank">here</a>
+The TMDB Api can be accessed from <a href="https://www.themoviedb.org/documentation/api" target="_blank">here</a>
 
 Here are the snapshots of the project below,
 
